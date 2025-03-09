@@ -83,6 +83,3 @@ gmail.client_secret="${CREDENTIALS.clientSecret}" \
 gmail.refresh_token="${tokens.refresh_token}"`);
   })
   .catch(console.error);
-
-
-firebase functions:config:set gmail.client_id="457481193145-hai6qb666joea048jav1nakneenvcvt7.apps.googleusercontent.com" gmail.client_secret="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" gmail.refresh_token="1//0gfSAHsJUNypnCgYIARAAGBASNwF-L9Ir7kMhA0DEMblJVLF_fbjwlohliG9GiUhWYE3V0M3NnBgEYBuMtNZJ8zwztfkbj99HZjA"
