@@ -3,8 +3,8 @@ const readline = require('readline');
 
 // OAuth2 Configuration
 const CREDENTIALS = {
-  clientId: '457481193145-hai6qb666joea048jav1nakneenvcvt7.apps.googleusercontent.com',
-  clientSecret: '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',
+  clientId: 'YOUR_GOOGLE_CLIENT_ID',
+  clientSecret: 'YOUR_GOOGLE_CLIENT_SECRET',
   redirectUri: 'http://localhost:8005/oauth2callback'
 };
 
